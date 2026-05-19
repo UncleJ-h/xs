@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# Secrets (NEVER commit these)
+.env
+.env.local
+auth.json
+*.key
+*.pem
+*.token
+config.local.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# User data
+output/
+logs/
+*.log
