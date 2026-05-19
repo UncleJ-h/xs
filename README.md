@@ -17,7 +17,7 @@ That's it. One command, gets Grok's synthesized answer + tweet citations, **uses
 
 **It uses your existing SuperGrok subscription** (included in X Premium+). No X Developer API key. No extra subscription. No $200/month X API tier.
 
-You already pay $30/month for Premium+. This makes that subscription actually useful.
+You already pay $40/month for Premium+. This makes that subscription actually useful.
 
 ## What it is NOT
 
@@ -193,7 +193,7 @@ That's it. No magic. The whole "trick" is that Hermes exposes `x_search_tool` as
 A: No. It uses official xAI OAuth and official xAI Responses API. Same channel as Grok.com.
 
 **Q: Does this cost money?**
-A: Only your existing SuperGrok subscription ($30/month via X Premium+). Heavy use can hit rate limits but you don't get billed extra.
+A: Only your existing SuperGrok subscription ($40/month via X Premium+, or $30/month for standalone SuperGrok). Heavy use can hit rate limits but you don't get billed extra.
 
 **Q: Can I run this on a VPS?**
 A: Yes. OAuth on your laptop first, then copy `~/.hermes/auth.json` to the VPS. Token works across machines.
